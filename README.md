@@ -1,1 +1,3 @@
-# Regresi-n-log-stica-y-validaci-n-cruzada-
+# Regresión logística y validación cruzada
+ Aqui utilizaremos una base de datos que contiene la siguiente informacion
+ 
