@@ -20,6 +20,6 @@
 Aqui trataremos de de utilizar metodos de logistica en los datos previamente establecidos 
 </head>
 Documemntos:
-[Datos](./)
-[Reporte en Notebook](./)
-[Reporte en HTML](./)
+- [Datos](./)
+- [Reporte en Notebook](./)
+- [Reporte en HTML](./)
